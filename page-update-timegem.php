@@ -10,6 +10,7 @@
         opacity: 0;
     }
 </style>
+
 <div class="form-wrapper">
     <div class="container">
         <?php

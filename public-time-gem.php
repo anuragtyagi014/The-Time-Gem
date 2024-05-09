@@ -19,6 +19,7 @@ $args = array(
 
 );
 
+
 $tributes_query = new WP_Query($args);
 //$tributs_num=0;
 

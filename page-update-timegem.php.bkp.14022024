@@ -8,6 +8,7 @@
 <div class="form-wrapper">
     <div class="container">
         <?php
+        
             $id=base64_decode($_GET['selected']);
             $author=get_current_user_id();
             $draft=get_post_meta($id);
